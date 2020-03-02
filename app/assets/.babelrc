@@ -1,0 +1,5 @@
+{
+	"ignore": [
+	"alloy/sync/properties.js" // comment out this line and the build will work
+  ]
+}
